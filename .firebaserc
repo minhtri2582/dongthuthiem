@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "trido-20dc3"
+  },
+  "targets": {
+    "trido-20dc3": {
+      "hosting": {
+        "dongthuthiem": [
+          "dongthuthiem"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
